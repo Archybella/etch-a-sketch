@@ -1,1 +1,1 @@
-# sketch
+This code creates an interactive Etch-A-Sketch-like webpage with a 16x16 grid of squares. Users can hover over the squares to draw with randomized colors, and they can click the "Reset Grid" button to create a new grid of a specified size. The grid squares also gradually darken with each interaction.
